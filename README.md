@@ -10,7 +10,7 @@
 
    `pip install scrapy` on Windows, or:
 
-   `python -m pip install --user scrapy` on linux.
+   `python3 -m pip install --user scrapy` on linux.
 
 ## Quick Demonstration
 
