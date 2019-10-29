@@ -23,6 +23,8 @@ scrapy crawl lagout
 
 where lagout is the task name of the crawl project.
 
+Take a nap, or a cup of coffee, and enjoy above 60k free e-books. I leave the downloading jobs to yourself. You can just build a mirror site from the original one, or just download the resources by your needs, it's all up to you.
+
 ## Detailed Description
 
 1. To start a new scrapy project, just run:
